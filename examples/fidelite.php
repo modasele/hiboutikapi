@@ -17,9 +17,9 @@
 
 //error_reporting(E_ALL);
 
-$account = ""; //libellé de votre compte | http://www.logiciel-caisse-gratuit.com/ou-trouver-mon-numero-de-compte-ainsi-que-le-libelle-de-mon-compte/
-$user = ""; //adresse email
-$key = ""; //clé d'accès à l'API
+$account = ""; //modaelen
+$user = ""; //modaseleinfo@gmail.com
+$key = ""; //LEOV7EIFIHUUQNZV298FWQWA682GFMDRQSC
 
 
 require 'vendor/autoload.php';
